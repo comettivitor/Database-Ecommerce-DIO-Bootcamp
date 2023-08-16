@@ -1,4 +1,4 @@
-# Database-DIO-Bootcamp
+# Database-Ecommerce-DIO-Bootcamp
 -First commit-
   Queries com criação do DB, persistencia de dados e alguns SELECT's.
 
